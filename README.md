@@ -5,7 +5,7 @@ Este projeto foi proposto por um curso que estou fazendo e consiste no desenvolv
 Consegui implementar o projeto utilizando tabelas e listas, entendo mais o funcionamento das `tags`:
 - `<table>`;
 - `<tr>` e `td`;
-- `<ol>`, `<ul>` e `<li>`; \**
+- `<ol>`, `<ul>` e `<li>`; <br/>
 Além das tags mais simples do HTML, como `<h1>`, `<p>`, `<strong>` entre tantas outras.
 ## Utilização
 1. Clone o respositório.
